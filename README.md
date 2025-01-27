@@ -9,11 +9,10 @@ Links to external cat photo resources
 Clean, readable, and beginner-friendly code
 
 Folder Structure:-
-CatPhotoApp/
-│
-├── index.html       # Main HTML file
-├── images/          # Folder for locally stored images
-└── README.md        # Project description and usage instructions
+1. CatPhotoApp/
+   index.html       # Main HTML file
+   images/          # Folder for locally stored images
+   README.md        # Project description and usage instructions
 
 How to Use:-
 1. Clone the repository:
