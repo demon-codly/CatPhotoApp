@@ -2,11 +2,11 @@
 A beginner-friendly project showcasing responsive web design and basic HTML structure for a fun cat-themed photo gallery and form. Perfect for practicing and learning web development fundamentals!
 
 Features:-
-Organized content with semantic HTML elements (e.g., <section>, <main>, <figure>)
-Interactive form elements, including radio buttons and checkboxes
-Image handling using local storage and external URLs
-Links to external cat photo resources
-Clean, readable, and beginner-friendly code
+1. Organized content with semantic HTML elements (e.g., <section>, <main>, <figure>)
+2. Interactive form elements, including radio buttons and checkboxes
+3. Image handling using local storage and external URLs
+4. Links to external cat photo resources
+5. Clean, readable, and beginner-friendly code
 
 Folder Structure:-
 1. CatPhotoApp/
